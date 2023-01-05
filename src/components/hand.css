@@ -1,0 +1,42 @@
+.scissors {
+  padding: 15px;
+  border-radius: 50%;
+  border: none;
+  background:
+    linear-gradient(
+      hsl(39, 89%, 49%),
+      hsl(40, 84%, 53%)
+    );
+  box-shadow: inset 0px -6px hsl(40, 87%, 41%);
+}
+
+.paper {
+  padding: 15px;
+  border-radius: 50%;
+  border: none;
+  background:
+    linear-gradient(
+      hsl(230, 89%, 62%),
+      hsl(230, 89%, 65%)
+    );
+    box-shadow: inset 0px -6px hsl(230, 62%, 48%);
+}
+
+.rock {
+  padding: 15px;
+  border-radius: 50%;
+  border: none;
+  background:
+    linear-gradient(
+      hsl(349, 71%, 52%),
+      hsl(349, 70%, 56%)
+    );
+  box-shadow: inset 0px -6px hsl(349, 78%, 37%);
+}
+
+.image {
+  background: white;
+  padding: 40px;
+  border-radius: 50%;
+  box-shadow: inset 0 6px hsl(217, 24%, 87%);
+}

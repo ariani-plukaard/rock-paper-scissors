@@ -1,0 +1,9 @@
+.gameOutcome {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
